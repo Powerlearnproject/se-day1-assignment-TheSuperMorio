@@ -20,7 +20,6 @@ Identify and describe at least three key milestones in the evolution of software
 
 * Rise of Agile Methodologies (2000s) – Agile methodologies became popular in the 2000s, focusing on flexibility, collaboration, and continuous improvement. This approach made software development more adaptive to changing user needs and market demands.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 
 * Requirements: Collecting and documenting user needs and system specifications.
