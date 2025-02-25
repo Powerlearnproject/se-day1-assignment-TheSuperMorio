@@ -85,4 +85,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 * vague prompt: "How's the weather?"
 * improved prompt: "How's the weather in Mandera today?"
-* The second prompt is more effective because it let's the model know the time and location of the place whose weather conditions you're inquiring about as opposed to the first prompt that doesn't provide context of where or when the weather inquiry is about.
+* The second prompt is more effective because it lets the model know the time and location of the place whose weather conditions you're inquiring about as opposed to the first prompt that doesn't provide context of where or when the weather inquiry is about.
